@@ -29,4 +29,7 @@ const PORNVIDEOS = (random : number) => {
     alert("The genre is " + PornGenres[actress.genres] + " and is for " + actress.users);
   }
 }
+
+const xxx = 3
+
 PORNVIDEOS(randomNumber(numberOfVideos()))
